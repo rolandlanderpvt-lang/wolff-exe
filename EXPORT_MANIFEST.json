@@ -1,18 +1,23 @@
 [
   {
     "path": "app.js",
-    "bytes": 4979,
-    "sha256": "32830ec0b65eb99a86a812026b2695096b928b6a143f8e96ebe2393d4ad66679"
+    "bytes": 5751,
+    "sha256": "73d578f2cb58f0fb9ea1ead50bc6830795888708157974de2bf789753f92a7b4"
   },
   {
     "path": "index.html",
-    "bytes": 9341,
-    "sha256": "41ff7960d60de3fc7aa3d79c7e9e7f61dd80ed0579beac8d05901a9073b23e7c"
+    "bytes": 9657,
+    "sha256": "27efea651a51e85ebe4704eebdd0c21960a587302dadd1128509da60f9846574"
   },
   {
     "path": "media/entrance.mp4",
     "bytes": 1554110,
     "sha256": "e43b642e0be928f697a5380e4ef1ee40751423b0362f7df94e5611ca30cb492b"
+  },
+  {
+    "path": "media/og.jpg",
+    "bytes": 37527,
+    "sha256": "5ffa0e68cc86bc63952dc077e83c637f08234ed4f0abe333da27c844401e8a13"
   },
   {
     "path": "media/skull.jpg",
@@ -100,6 +105,11 @@
     "sha256": "fbf0f311deeae4de93fb8407acb6c971770bacecb2707e6ea39fc8415b455c2b"
   },
   {
+    "path": "posters.js",
+    "bytes": 2299,
+    "sha256": "e0eb5a03dd468379c04b9c2d312c0b2ea3c8ba507b488f1522ede8178daf5c04"
+  },
+  {
     "path": "posters/cherubs.jpg",
     "bytes": 53111,
     "sha256": "1c80a75e89283c91290b5ebed91d8867612f9658019bc75d2734ce77ca02d799"
@@ -115,9 +125,9 @@
     "sha256": "6d6d6b30c974acaa462c45913463f47cbd75ddc60ead77e29bfb4eaeefb8cd66"
   },
   {
-    "path": "posters/see-no-evil.png",
-    "bytes": 669642,
-    "sha256": "fabfe6a267732429df2caaf0e7643c62414935b9158cc5becb8c6162b4670533"
+    "path": "posters/see-no-evil.jpg",
+    "bytes": 109242,
+    "sha256": "b248250f010ee8a4a9f55e0785daf308a15cd02b74246e073b5ca03a85fd29c6"
   },
   {
     "path": "posters/serpent.jpg",
@@ -130,18 +140,13 @@
     "sha256": "c366732b6d6993d4056309995011ee9e7cfe6552ea0557155b51e0389096abe6"
   },
   {
-    "path": "posters.js",
-    "bytes": 2238,
-    "sha256": "c1821251a9ede190324aaa87fb0e11f626ffc03e32b1082cf4ea5f70b8109cbe"
-  },
-  {
     "path": "responsive.css",
-    "bytes": 5517,
-    "sha256": "6ec9f51cb2ce2e1858159c0cf468f3071b5b6fd1d7175a2821cb381826261fe4"
+    "bytes": 5553,
+    "sha256": "9d0dae57563bc27e1acc92cde6d6f09c6828a9f4a506a0d6894f4ada193aaa53"
   },
   {
     "path": "style.css",
-    "bytes": 16738,
-    "sha256": "f5489bf54a3a1f030b460a7c0e3e73c5861ceee77185b595f833c22727e8f0ea"
+    "bytes": 15811,
+    "sha256": "d7584afd21fecc38c1fe19553bf3e52fd0d3bb8d8230c2d149c9af3d404da77d"
   }
 ]
