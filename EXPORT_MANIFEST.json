@@ -1,18 +1,18 @@
 [
   {
     "path": "app.js",
-    "bytes": 5751,
-    "sha256": "73d578f2cb58f0fb9ea1ead50bc6830795888708157974de2bf789753f92a7b4"
+    "bytes": 7352,
+    "sha256": "70cc00fbf8316bc74bae7ab085bab2c881f6df4c9d0f4136ace1fd3f3fe084c1"
   },
   {
     "path": "index.html",
-    "bytes": 9657,
-    "sha256": "27efea651a51e85ebe4704eebdd0c21960a587302dadd1128509da60f9846574"
+    "bytes": 9692,
+    "sha256": "9493574fa9082b68d659790f4b3b926da8ed5861274f9121ea3ec877ecaabe3d"
   },
   {
     "path": "media/entrance.mp4",
-    "bytes": 1554110,
-    "sha256": "e43b642e0be928f697a5380e4ef1ee40751423b0362f7df94e5611ca30cb492b"
+    "bytes": 844395,
+    "sha256": "ea892f8b81f84b8b0767d09ace6109ded463dfdd1c7edc74f0afe3de2d64ef10"
   },
   {
     "path": "media/og.jpg",
@@ -146,7 +146,7 @@
   },
   {
     "path": "style.css",
-    "bytes": 15811,
-    "sha256": "d7584afd21fecc38c1fe19553bf3e52fd0d3bb8d8230c2d149c9af3d404da77d"
+    "bytes": 16688,
+    "sha256": "c1e114338a4c064dea19f74ed5a706be242494b964224b3febcc2bd7f198d61f"
   }
 ]
